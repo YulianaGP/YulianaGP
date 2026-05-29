@@ -17,13 +17,13 @@ Construyo herramientas financieras, APIs y aplicaciones con inteligencia artific
 
 ---
 
-### Proyectos actuales
+### 🚀 Current Projects
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🏦 **fintrak** | Dashboard financiero personal con AI | Next.js · OpenAI · Stripe |
-| 🔐 **authkit** | Template de auth para Next.js listo para producción | NextAuth · Prisma · Resend |
-| 💳 **payflow-api** | API REST estilo Fintech con webhooks e idempotency | Node.js · TypeScript · Prisma |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**authkit**](https://github.com/YulianaGP/authkit) | Production-ready auth starter for SaaS — 2FA, rate limiting, audit logging | Next.js · TypeScript · Prisma |
+| [**payflow-api**](https://github.com/YulianaGP/payflow-api) | Fintech-style REST API with structured MVC architecture | Node.js · TypeScript · PostgreSQL |
+| [**nextjs-blog-guvery**](https://github.com/YulianaGP/nextjs-blog-guvery) | Full-stack blog CMS with RBAC and editorial workflow | Next.js · TypeScript · Prisma |
 
 ---
 
